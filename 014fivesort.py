@@ -14,3 +14,10 @@ def five_sort(nums):
     return nums  # Return the modified list
 
 print(five_sort([12, 5, 1, 5, 12, 7]))
+
+
+
+
+
+
+
